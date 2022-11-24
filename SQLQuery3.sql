@@ -23,4 +23,4 @@ catname varchar (40)
 );
 select * from Category
 insert Category(catid,catname)
-values (''
+values ('45','Cherry'),('46','Apple'),('47','Pear')
